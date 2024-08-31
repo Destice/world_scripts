@@ -3,7 +3,7 @@
 ## Prerequisites:
 ### [CLIENT SIDE] Minecraft ATM9 (All the mods 9)
 1. Download polyMC launcher (https://polymc.org/download/)
-2. Setup ATM9 minecraft instance
+2. Setup ATM9 minecraft instance (version 0.3.0)
    
 ### (optional) [SERVER SIDE] Sync world with remote
 1. Download and setup git (https://git-scm.com/download/win)
