@@ -14,7 +14,7 @@
 2. Generate (if necessary) ssh keys (https://www.purdue.edu/science/scienceit/ssh-keys-windows.html)
 3. Add ssh key (content of id-rsa.pub) to your Github account (https://github.com/settings/keys)
 4. Get access rights to https://github.com/Destice/world
-5. Download Minecraft-server-ATM9 (version 0.3.0) files from https://www.curseforge.com/minecraft/modpacks/all-the-mods-9/files/5564414
+5. Download Minecraft-server-ATM9 (version 0.3.2) files from https://www.curseforge.com/minecraft/modpacks/all-the-mods-9/files/5564414
 
 
 ## How to use:
