@@ -3,11 +3,12 @@
 ## Prerequisites:
 ### [CLIENT SIDE] Minecraft ATM9 (All the mods 9)
 1. Download polyMC launcher (https://polymc.org/download/)
-2. Setup ATM9 minecraft instance (version 0.3.0)
+2. Setup ATM9 minecraft instance (version 0.3.2)
    * be sure to install java (version >= 17)
    * add user account
 3. (optional) add Complementary shaders (https://resourcepack.net/complementary-shaders)
-   
+4. (optional) for flywheel rendering fix (low fps when looking at flywheel components) install "Oculus Flywheel Compat" mod (https://www.curseforge.com/minecraft/mc-mods/iris-flywheel-compat) - can be installed from PolyMC
+
 ### (optional) [SERVER SIDE] Sync world with remote
 1. Download and setup git (https://git-scm.com/download/win)
 2. Generate (if necessary) ssh keys (https://www.purdue.edu/science/scienceit/ssh-keys-windows.html)
